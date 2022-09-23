@@ -5,3 +5,22 @@ body {
 input {
   margin: 5px;
 }
+
+form {
+  padding-right: 10px;
+}
+
+form label {
+  display: flex;
+}
+
+form textarea {
+  height: 150px;
+}
+
+
+form input, 
+form textarea {
+  width: 100%;
+  margin-bottom: 20px;
+}
